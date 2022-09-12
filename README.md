@@ -3,7 +3,7 @@
 <br/>
 
 <p align="center">
-<!--     <img src="media/hi.gif" style="height:450px"/> -->
+<img src="media/hi.gif" style="height:450px"/>
 <hr/> 
 
 <!-- <img src="https://media.giphy.com/media/ZchkBcB4zKiuG4Y22I/giphy.gif" style="height:50px;" /> ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23313131&size=20&center=false&vCenter=true&width=700&height=50&lines=Welcome+to+Bhannasa's+Profile;I+am+a+Competitive+Coder;I+am+a+MERN+Developer;I+am+a+Java+Swing+beginner+)  -->
