@@ -1,5 +1,5 @@
 <h2>Hi There!🙏🏻 I'm Pankaj Kumar Sharma</h2>  
-3rd Year Undergraduate at <a href="https://nitkkr.ac.in/">NIT Kurukshetra</a> <br/>
+Final Year Undergraduate at <a href="https://nitkkr.ac.in/">NIT Kurukshetra</a> <br/>
 <br/>
 
 <p align="center">
